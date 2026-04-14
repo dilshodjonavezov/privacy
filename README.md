@@ -1,0 +1,3 @@
+# privacy
+
+Static privacy page.
